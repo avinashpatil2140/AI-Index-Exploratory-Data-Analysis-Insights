@@ -62,6 +62,11 @@ This project explores global AI Index data through data cleaning, visualization,
 * Research intensity is a strong driver of overall AI Index rankings.
 * Europe and North America dominate top rankings, while Asia is showing rapid growth.
 * Clean, structured data enables accurate comparisons and modeling.
+* The analysis of the dataset tracking the AI global index of 62 countries revealed interesting insights into the factors contributing to a country's total score.
+* Among the various fields evaluated, such as talent, research, and operating environment, it was observed that a country's total score displayed a strong correlation with both talent and research.
+* A simple linear regression model achieved an accuracy of 75% when using research as a predictor for the total score.
+* However, the accuracy significantly improved to 99% when employing a multiple linear regression model that incorporated all the scored fields to predict the total score.
+* These findings highlight the crucial role of research in determining a country's overall AI capabilities, while also emphasizing the combined influence of multiple factors in shaping its performance.
 
 ---
 
